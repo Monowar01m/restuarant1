@@ -1,0 +1,153 @@
+@media (max-width: 992px) { 
+    .overlay {
+        width: 690px;  
+      }
+      .container11:hover .overlay {
+        width: 690px; 
+        height: 430px;
+      }
+      .image {
+       
+        width: 690px;
+        height: 429px;
+        
+    }
+    .d-flex {
+        padding-bottom: 25px;
+    }
+ }
+
+
+@media (max-width: 768px) { 
+    .overlay {
+        width: 515px;  
+      }
+      .container11:hover .overlay {
+        width: 515px; 
+        height: 430px;
+      }
+      .image {
+       
+        width: 690px;
+        height: 429px;
+        
+    }
+    .d-flex {
+        padding-bottom: 21px;
+    }
+  
+ }
+    
+
+@media screen and (max-width:600px){
+    .main-header {
+        border-radius: none ;
+        box-shadow: 0 0 25px 5px rgb(100, 98, 98);
+    }
+    .navbar-brand img {
+        width: 100px;
+        height: 50px;
+        
+    }
+  
+    .image-img {
+        height: 383px;
+        margin-top: 18px;
+    }
+    .carousel-caption h1 {
+        font-size: 25px;
+        
+    }
+    .carousel-caption  {
+        font-size: 20px;
+        margin-bottom: 60px;
+    }
+    .overlay {
+        width: 400px;  
+        
+
+      }
+      .container11:hover .overlay {
+        width: 400px; 
+        height: 209px;
+      }
+      .container11 {
+        
+        margin-left: 70px;
+    }
+    .image {
+     
+        width: 295px;
+        height: 209px;
+        
+    }
+    .d-flex {
+        padding-bottom: 29px;
+    }
+    .overlay {
+       font-size: 25px;
+
+      }
+      .container11 {
+        margin-left: 30px;
+    }
+    .container11 {
+        margin-left: 35px;
+    }
+}
+
+
+
+@media (max-width: 576px) {  
+    .overlay {
+        width: 336px;  
+      }
+      .container11:hover .overlay {
+        width:336px; 
+        
+      }
+      .image {
+       
+        width: 690px;
+        
+        
+    }
+    .d-flex {
+        padding-bottom: 25px;
+    }
+    .container11 {
+        margin-left: 0px;
+    }
+
+}
+
+@media (max-width: 500px) {  
+    .overlay {
+        width: 369px;  
+      }
+      .container11:hover .overlay {
+        width:369px; 
+        
+      }
+      .image {
+       
+        width: 690px;
+        
+        
+    }
+    .d-flex {
+        padding-bottom: 25px;
+    }
+    .container11 {
+        margin-left: 0px;
+    }
+
+}
+
+
+
+
+
+
+
+
